@@ -27,11 +27,11 @@ In this project, my LinkedIn profile and past CVs are used to build CVs for job 
 
 Start every chat for this system inside that Project.
 
-All prompts in this guide are also saved as separate files in the [`prompts/`](prompts/) folder.
+All prompts in this guide are also saved as separate files.
 
 ## The three steps at a glance
 
-![The three steps: build Steps 1 and 2 once, then run Step 3 for each job](images/three-steps.png)
+![The three steps: build Steps 1 and 2 once, then run Step 3 for each job](three-steps.png)
 
 Steps 1 and 2 are set up once. Step 3 runs for each job you apply to, and what you learn there goes back into your baseline.
 
