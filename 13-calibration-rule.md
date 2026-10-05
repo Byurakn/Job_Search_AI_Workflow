@@ -1,0 +1,1 @@
+Add a calibration rule to job_search_config.md: when a re-score is lower than an earlier score for the same job with no new negative evidence, keep the earlier score and note the difference. Review in the Friday check whether scoring is too harsh compared with jobs I chose to apply to anyway.

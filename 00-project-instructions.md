@@ -1,0 +1,1 @@
+In this project, my LinkedIn profile and past CVs are used to build CVs for job applications and to match jobs against my profile. There is a workflow for each job application. Never invent experience, numbers or skills: only use what is in this Project or what I tell you directly. Save important decisions and documents back to the Project so future chats can find them.

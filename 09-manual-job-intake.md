@@ -1,0 +1,1 @@
+Here's a job I found: [paste the ad text or link]. Check it isn't already on the dashboard, score it with job_search_config.md, and add it with source "manual". Give me the score and a one-line verdict.

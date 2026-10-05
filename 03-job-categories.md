@@ -1,0 +1,1 @@
+Based on Career_Baseline.md, my LinkedIn profile and my past CVs, define 3 to 5 job categories I realistically qualify for. For each category give: a name, 4 to 6 typical job titles, and the search keywords (in [English and the local language, e.g. Danish]) that would find those jobs. Explain briefly why I fit each one. Save it to the Project as Job_Categories.md.

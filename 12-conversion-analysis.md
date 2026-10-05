@@ -1,0 +1,1 @@
+Here is my updated application tracker: [paste or attach]. Analyse it and save the result to the Project as Conversion_Analysis.md: interview rate overall and by each column, how long rejections take, which pending applications are worth a follow-up, and whether any change in my approach (new CV layout, ATS tailoring) shows an effect. Say when a sample is too small to be sure.
